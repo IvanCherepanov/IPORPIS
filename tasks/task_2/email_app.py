@@ -35,8 +35,8 @@ class EmailSenderApp(QMainWindow):
         self.smtp_servers = {
             # криво привязано
             0: ("smtp.yandex.ru", 465),
-            2: ("smtp.gmail.com", 587),
-            1: ("smtp.mail.ru", 465),
+            1: ("smtp.gmail.com", 587),
+            2: ("smtp.mail.ru", 465),
         }
 
         # Список для хранения путей к файлам
