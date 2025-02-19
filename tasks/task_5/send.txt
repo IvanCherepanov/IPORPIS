@@ -1,0 +1,24 @@
+Ошибка отправки письма iv.cherenov8@yandex.ru: 'EmailSenderApp' object has no attribute 'send_email'
+Ошибка отправки письма grayknightfromravenclaw@gmail.com: 'EmailSenderApp' object has no attribute 'send_email'
+Ошибка отправки письма iv.cherenov8@yandex.ru: 'EmailSenderApp' object has no attribute 'send_email'
+Ошибка отправки письма grayknightfromravenclaw@gmail.com: 'EmailSenderApp' object has no attribute 'send_email'
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
+Ошибка отправки письма iv.cherenov8@yandex.ru: [Errno 2] No such file or directory: '1.json'
+Ошибка отправки письма grayknightfromravenclaw@gmail.com: [Errno 2] No such file or directory: '1.txt'
+Ошибка отправки письма iv.cherenov8@yandex.ru: [Errno 2] No such file or directory: '1.json'
+Ошибка отправки письма grayknightfromravenclaw@gmail.com: [Errno 2] No such file or directory: '1.txt'
+Email iv.cherenov8@yandex.ru; theme: 1; message: 1
+Email grayknightfromravenclaw@gmail.com; theme: 1; message: 1
