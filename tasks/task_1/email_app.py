@@ -1,5 +1,3 @@
-import logging
-
 from PyQt5 import uic
 import smtplib
 from email.mime.text import MIMEText

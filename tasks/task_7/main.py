@@ -9,7 +9,7 @@ def main():
     app = QApplication(sys.argv)
 
     window = DatabaseApp()
-    window.setFixedSize(800, 700)
+    window.setFixedSize(400, 730)
     window.setWindowTitle('DatabaseAppApp')
     window.show()
 

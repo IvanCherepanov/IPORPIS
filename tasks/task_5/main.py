@@ -9,7 +9,7 @@ def main():
     app = QApplication(sys.argv)
 
     window = CalculatorApp()
-    window.setFixedSize(550, 800)
+    window.setFixedSize(350, 150)
     window.setWindowTitle('CalcApp')
     window.show()
 
